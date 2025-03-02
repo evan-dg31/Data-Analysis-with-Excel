@@ -10,6 +10,11 @@ Understand purchase behavior and streamline operations. Transform the data into 
 * Build dynamic dashboard to visualize patterns and trends - visualize the data with Pivot Charts, design an interactive dashboard, and identify insights and recommendations for the coffee shop.
 
 ### Insights and Recommendation:
+
+[Download Dashboard](https://github.com/evan-dg31/Data-Analysis-with-Excel/blob/0ad560d9bf867be7f988b0d8a7f63c3c45785e87/Coffee%20Shop%20Dashboard/Coffee%20Shop%20Sales.xlsx)
+
+![Image](https://github.com/user-attachments/assets/651f56c7-a49b-4a04-8d80-e2ea15e8fa23)
+
 **Lower Manhattan**
 
 ![Image](https://github.com/user-attachments/assets/520965e9-9047-4bbb-8b1b-5d7f188e5695) 
